@@ -1,2 +1,4 @@
-# blurstuff_py
-Blur stuff in images and videos - python edition
+
+```bash
+uv run blurstuff.py -i "./assets" -o out   
+```
